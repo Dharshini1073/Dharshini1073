@@ -2,7 +2,7 @@
 
 🎓 M.Sc. Data Science & Machine Learning student  
 💻 B.Tech Artificial Intelligence & Data Science  
-🤖 Interested in Artificial Intelligence, Machine Learning & Data Science
+🤖 Interested in Artificial Intelligence, Machine Learning & Data Science  
 
 ## About Me
 
@@ -22,9 +22,19 @@ I'm interested in building practical solutions using AI, Machine Learning and Da
 ## 🚀 Projects
 
 ### 🌱 Eco Waste Classifier
+
 An AI/ML project for classifying different types of waste and providing eco-friendly recycling recommendations.
 
+🔗 [View Project](https://github.com/deepikad1504/wasteclassifier)
+
+### ⚡ Spark Task 1
+
+A collaborative project involving data processing and development tasks.
+
+🔗 [View Project](https://github.com/harinit2307/spark_task1)
+
 ### 🤖 AI & Data Science Projects
+
 Worked on collaborative projects involving Artificial Intelligence, Machine Learning and Data Science.
 
 ## 📫 Connect With Me
